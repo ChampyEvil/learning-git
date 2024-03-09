@@ -6,3 +6,8 @@ hometown: Nonthaburi
 Name: Thirawuth
 gender: male
 hometown: Nonthaburi
+
+
+Name: Tanapat Daoloy (Khing)
+gender: male
+hometown: Bangkok

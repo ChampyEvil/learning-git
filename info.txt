@@ -7,6 +7,9 @@ Name: Thirawuth
 gender: male
 hometown: Nonthaburi
 
+Name: Winter
+gender: male
+hometown: Patumthani
 
 Name: Tanapat Daoloy (Khing)
 gender: male
@@ -19,3 +22,12 @@ hometown: bangkok
 Name: VichayadanPimpun
 gender: Female
 hometown: Bangkok
+
+name: Winter
+gender: male
+hometown: Patumthani
+
+Name: Pimpisut
+gender: female
+hometown: Phisanulok
+

@@ -35,3 +35,10 @@ Name: Jab
 gender: male
 hometown: Udonthani
 
+Name: Rainy
+gender: male
+hometown: Bangkok
+
+Name: Summer
+gender: male
+hometown: Lampang

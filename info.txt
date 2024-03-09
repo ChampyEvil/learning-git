@@ -5,4 +5,4 @@ hometown: Nonthaburi
 
 Name: Thirawuth
 gender: male
-hometown: Nonthaburi
+hometown: Rayong

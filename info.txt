@@ -27,10 +27,6 @@ Name: VichayadanPimpun
 gender: Female
 hometown: Bangkok
 
-name: Winter
-gender: male
-hometown: Patumthani
-
 Name: Pimpisut
 gender: female
 hometown: Phisanulok

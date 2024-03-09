@@ -11,3 +11,7 @@ hometown: Nonthaburi
 Name: Tanapat Daoloy (Khing)
 gender: male
 hometown: Bangkok
+
+name: Nana
+gender: female
+hometown: bangkok

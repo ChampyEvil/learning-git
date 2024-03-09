@@ -1,0 +1,8 @@
+Ex.
+Name: Champ
+gender: male
+hometown: Nonthaburi
+
+Name: Thirawuth
+gender: male
+hometown: Nonthaburi

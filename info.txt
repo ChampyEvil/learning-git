@@ -22,3 +22,6 @@ hometown: bangkok
 name: Winter
 gender: male
 hometown: Patumthani
+Name: Pimpisut
+gender: female
+hometown: Phisanulok

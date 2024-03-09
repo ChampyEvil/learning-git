@@ -5,8 +5,40 @@ hometown: Nonthaburi
 
 Name: Thirawuth
 gender: male
-hometown: Nonthaburi
+hometown: Rayong
 
-Name: thanakhan
+Name: kunkao
 gender: male
-hometown: Nakhon Ratchasima
+hometown: BKK
+
+Name: Winter
+gender: male
+hometown: Patumthani
+
+Name: Tanapat Daoloy (Khing)
+gender: male
+hometown: Bangkok
+
+name: Nana
+gender: female
+hometown: bangkok
+
+Name: VichayadanPimpun
+gender: Female
+hometown: Bangkok
+
+Name: Pimpisut
+gender: female
+hometown: Phisanulok
+
+Name: Jab
+gender: male
+hometown: Udonthani
+
+Name: Rainy
+gender: male
+hometown: Bangkok
+
+Name: Summer
+gender: male
+hometown: Lampang

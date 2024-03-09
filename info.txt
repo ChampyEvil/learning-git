@@ -19,9 +19,11 @@ name: Nana
 gender: female
 hometown: bangkok
 
-name: Winter
-gender: male
-hometown: Patumthani
 Name: Pimpisut
 gender: female
 hometown: Phisanulok
+
+Name: Jab
+gender: male
+hometown: Udonthani
+

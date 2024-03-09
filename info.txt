@@ -5,7 +5,11 @@ hometown: Nonthaburi
 
 Name: Thirawuth
 gender: male
-hometown: Nonthaburi
+hometown: Rayong
+
+Name: kunkao
+gender: male
+hometown: BKK
 
 
 Name: Tanapat Daoloy (Khing)

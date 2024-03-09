@@ -10,3 +10,15 @@ hometown: Nonthaburi
 Name: Winter
 gender: male
 hometown: Patumthani
+
+Name: Tanapat Daoloy (Khing)
+gender: male
+hometown: Bangkok
+
+name: Nana
+gender: female
+hometown: bangkok
+
+name: Winter
+gender: male
+hometown: Patumthani
